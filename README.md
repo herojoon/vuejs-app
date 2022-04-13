@@ -23,3 +23,8 @@ Vue 프로젝트 History Mode View Mapping 설정:
 ### Node Plugin 참고 링크
 
 * https://github.com/node-gradle/gradle-node-plugin/blob/3.2.1/docs/usage.md
+
+### Vue 프로젝트 정보
+
+* Vue 프로젝트 생성 방법: https://herojoon-dev.tistory.com/128
+* Vue 프로젝트 실행 방법(project root / vue-project 위치에서 명령어 실행 - node, npm이 설치 되어 있어야 함.): npm run dev
